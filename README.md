@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/Akshats_2112/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Akshat_2112?theme=dark" alt="Akshat Sharma LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Akshats_2112?theme=dark" alt="Akshat Sharma LeetCode Stats" />
   </a>
 </div>
 
@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="Firebase" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original-wordmark.svg" alt="devicon" width="50" height="50" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line-wordmark.svg" alt="vercel" width="50" height="50" /> -->
