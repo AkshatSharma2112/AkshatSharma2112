@@ -32,7 +32,7 @@
     <br></br>
   </a>
   <a href="https://leetcode.com/u/Akshats_2112/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-divyansh5464-orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
+    <img src="https://img.shields.io/badge/LeetCode-Akshat_2112-orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
     
   </a>
 </p>
